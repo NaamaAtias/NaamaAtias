@@ -15,6 +15,8 @@ I'm a passionate Full Stack Developer with a strong focus on frontend developmen
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -38,7 +40,7 @@ As a Full Stack Developer, I specialize in creating responsive and dynamic web a
 - Building intuitive user interfaces
 - Creating responsive web designs
 - Developing scalable web applications
-- Implementing modern web technologies
+- Implementing RESTful APIs and backend services
 - Crafting clean and maintainable code
 
 ## 📫 Let's Connect!
